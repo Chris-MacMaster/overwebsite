@@ -1,0 +1,66 @@
+html {
+    text-align: center;
+    background-color: skyblue;
+}
+
+body {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: orange;
+    margin-right: 0px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+nav p {
+    font-size: 25px;
+}
+
+section {
+    display: grid;
+    grid-template-columns: 33% 33% 33%;
+    grid-template-rows: 50% 50%;
+}
+
+section div {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+#heroes-description {
+font-size: 20px;
+font-weight: normal;
+}
+
+#source {
+    padding-left: 70%;
+    margin-top: 5px;
+}
+
+#bullet-description {
+    font-size: 20px;
+}
+
+ul {
+    text-align: center;
+    font-weight: bold;
+    font-size: 15px;
+}
+
+ul li{
+    text-align: left;
+    font-weight: normal;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+span {
+    font-weight: bold;
+}

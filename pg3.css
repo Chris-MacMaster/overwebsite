@@ -1,0 +1,41 @@
+html {
+    text-align: center;
+    background-color: skyblue;
+}
+
+body {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: orange;
+    margin-right: 0px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+nav p {
+    font-size: 25px;
+}
+
+#guide-description {
+    font-size: 20px;
+    font-weight: bold;
+}
+
+ul {
+    text-align: left;
+    margin-left: 25%;
+    margin-right: 25%;
+}
+
+ul li {
+    margin-bottom: 15%;
+    font-size: 20px;
+    font-weight: normal;
+}

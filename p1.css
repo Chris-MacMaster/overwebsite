@@ -1,0 +1,36 @@
+html {
+    text-align: center;
+    background-color: skyblue;
+}
+
+body {
+    margin-right: 0px;
+    margin-left: 0px;
+}
+
+nav {
+    display: flex;
+    justify-content: space-around;
+    background-color: orange;
+    margin-right: 0px;
+}
+
+h1 {
+    font-size: 30px;
+}
+
+nav p {
+    font-size: 25px;
+}
+
+h3 p {
+    font-size: 20px;
+    font-weight: normal;
+    margin-right: 10%;
+    margin-left: 10%;
+}
+
+#source {
+    padding-left: 80%;
+    margin-top: 5px;
+}
